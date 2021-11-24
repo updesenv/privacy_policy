@@ -44705,7 +44705,7 @@ j=Q.cA(f,Y.cC(e).u.cx===C.n?$.jp():$.jo(),"Este servi\xe7o pode conter links par
 i=Q.cA(f,Y.cC(e).u.cx===C.n?$.jr():$.jq(),"Mudan\xe7as nesta Pol\xedtica de Privacidade\n\n")
 h=Q.cA(f,Y.cC(e).u.cx===C.n?$.jp():$.jo(),"Podemos atualizar nossa Pol\xedtica de Privacidade de tempos em tempos. Portanto, recomendamos que voc\xea reveja esta p\xe1gina periodicamente para verificar quaisquer altera\xe7\xf5es.Iremos notific\xe1-lo de quaisquer altera\xe7\xf5es, publicando a nova Pol\xedtica de Privacidade nesta p\xe1gina.\n\nEsta pol\xedtica est\xe1 em vigor a partir de 2021-11-24 \n\n")
 g=Q.cA(f,Y.cC(e).u.cx===C.n?$.jr():$.jq(),"Entre em contato conosco\n\n")
-c=T.acZ(H.a([b,a,new T.f_(C.rW,f,f,q,f),c,L.a5U(Q.cA(H.a([p,o,n,m,l,k,j,i,h,g,Q.cA(f,Y.cC(e).u.cx===C.n?$.jp():$.jo(),"Se voc\xea tiver d\xfavidas ou sugest\xf5es sobre nossa Pol\xedtica de Privacidade, n\xe3o hesite em nos contatar em up.desenv@gmail.com.\n")],r),s,"Dados de registro \n\n"),C.dn)],t.p),C.ek)
+c=T.acZ(H.a([b,a,new T.f_(C.rW,f,f,q,f),c,L.a5U(Q.cA(H.a([p,o,n,m,l,k,j,i,h,g,Q.cA(f,Y.cC(e).u.cx===C.n?$.jp():$.jo(),"Se voc\xea tiver d\xfavidas ou sugest\xf5es sobre nossa Pol\xedtica de Privacidade, n\xe3o hesite em nos contatar em adm@upsoftware.com.br.\n")],r),s,"Dados de registro \n\n"),C.dn)],t.p),C.ek)
 return new M.r_(new E.op(d,new E.Fg(f,f,1/0,56),f),new E.AE(!0,new T.ht(C.x3,c,f),f),f)}}
 X.N7.prototype={
 $0(){return T.a_u("https://www.google.com/policies/privacy/")},
